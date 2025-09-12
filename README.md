@@ -1,4 +1,4 @@
-# 👋 Bonjour, je m'appelle Fatoumata Koné (Tatkey)
+# 👋 Bonjour, je m'appelle Fatoumata Koné (Fatou)
 
 🎓 Candidate future étudiante en génie logiciel 
 💻 Conseillère en soutien technique chez Vidéotron  
