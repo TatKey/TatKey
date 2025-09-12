@@ -10,7 +10,7 @@
 - Apprentissage continu en génie logiciel et cybersécurité  
 
 ## 📌 Projets en vedette
-*(À venir très bientôt !)*
+*https://tatkey.github.io/tech-troubleshooter/*
 
 ## 📫 Me contacter
 - Email : fkmtl9000@gmail.com  
